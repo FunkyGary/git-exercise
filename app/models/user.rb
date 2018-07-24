@@ -3,3 +3,4 @@ class User < ApplicationRecord
     Rails.env.development?
   end
 end
+# hello
